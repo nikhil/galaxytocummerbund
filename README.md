@@ -25,6 +25,7 @@ Open up a terminal with a bash shell.
 <code>
 chmod +x galaxytocummerbund.sh 
 </code>
+<br>
 <code>
 ./galaxytocummerbund.sh
 </code>
