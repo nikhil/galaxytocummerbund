@@ -23,7 +23,9 @@ I wrote a script that converts all the files into the proper format.
 Open up a terminal with a bash shell.
 
 <code>
-chmod +x galaxytocummerbund.sh <br>
+chmod +x galaxytocummerbund.sh 
+<br>
+<br>
 ./galaxytocummerbund.sh
 </code>
 
