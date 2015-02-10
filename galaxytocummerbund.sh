@@ -9,6 +9,7 @@
 #for f in *.tabular; do mv $f ${f#Cuffdiff_on_data_*,_data_**,_and_data_***__}%.tabular}; done
 for f in *; do mv $f ${f#Galaxy1***-\[Cuffdiff_on_data_***,_data_**,_and_data_***__}; done 2> /dev/null	
 for f in *; do mv $f ${f#Cuffdiff_on_data_***,_data_***,_and_data_***__}; done 2> /dev/null	
+for f in *; do mv $f ${f#Cuffdiff_on_data_***,_data_***,_and_others__}; done 2> /dev/null
 for f in *; do mv $f ${f%.tabular}; done 2> /dev/null	
 
 
